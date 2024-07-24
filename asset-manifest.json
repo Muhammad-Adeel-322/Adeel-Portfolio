@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Adeel-Portfolio/static/css/main.b31564bb.css",
+    "main.js": "/Adeel-Portfolio/static/js/main.7c63845e.js",
+    "static/media/Slider.png": "/Adeel-Portfolio/static/media/Slider.2b6b85b467afbe033bc9.png",
+    "static/media/AdeelCV.pdf": "/Adeel-Portfolio/static/media/AdeelCV.1ccd2df9ba6c454aa7cc.pdf",
+    "static/media/home-main.svg": "/Adeel-Portfolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/Adeel-Portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/Bird.png": "/Adeel-Portfolio/static/media/Bird.1de312d1f85f03ce023e.png",
+    "static/media/home-bg.jpg": "/Adeel-Portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/Drik-Water.png": "/Adeel-Portfolio/static/media/Drik-Water.52410d4be39ff14bd669.png",
+    "static/media/Contact Manager.png": "/Adeel-Portfolio/static/media/Contact Manager.678f11b8158011557cf4.png",
+    "static/media/avatar.svg": "/Adeel-Portfolio/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/pre.svg": "/Adeel-Portfolio/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/Adeel-Portfolio/index.html",
+    "main.b31564bb.css.map": "/Adeel-Portfolio/static/css/main.b31564bb.css.map",
+    "main.7c63845e.js.map": "/Adeel-Portfolio/static/js/main.7c63845e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b31564bb.css",
+    "static/js/main.7c63845e.js"
+  ]
+}
